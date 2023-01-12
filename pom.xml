@@ -6,8 +6,8 @@
 
   <groupId>com.example</groupId>
   <artifactId>MavenWeb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
 
   <name>MavenWeb Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
